@@ -1,2 +1,3 @@
 # Javascript
-Fore revising java script
+This is for my personal reference and revision
+For revising java script
